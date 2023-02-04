@@ -1,4 +1,4 @@
-FROM irinesistiana/mosdns:v4.5.3
+FROM irinesistiana/mosdns:v5.0.1
 
 COPY ./content /etc/mosdns
 
